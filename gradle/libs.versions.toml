@@ -14,7 +14,7 @@ kotlin = '1.7.22'
 groovy = "4.0.6"
 
 cloudevents-api = "2.4.0"
-jetty-servlet = "10.0.12"
+jetty-servlet = "11.0.13"
 logback-json-classic = "0.1.5"
 testcontainers = "1.17.6"
 zipkin-sender-stackdriver = "1.0.4"
